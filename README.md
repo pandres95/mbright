@@ -10,3 +10,6 @@ $ chmod +x mbright
 $ sudo mv mbright /usr/bin
 $ mbright
 ```
+# Relase Notes
+
+I was really drunk while writing this script, so don't use it in production.
